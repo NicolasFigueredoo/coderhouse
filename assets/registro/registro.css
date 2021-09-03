@@ -1,0 +1,80 @@
+body{
+    background-image: url(../registro/imagesregistro/Sin\ título-2.jpg);
+}
+
+
+
+.registro{
+    margin-top: 30px;
+
+}
+.input-group{
+    padding-left: 100px;
+
+    padding-top: 30px;
+    padding-right: 900px ;
+}
+
+.registro h1{
+    font-family: "bebas";
+    font-size: 40px;
+    padding-left: 135px;
+}
+.registro p{
+    padding-left: 70px;
+    font-weight: 500;
+    padding-right: 850px;
+}
+#mensajeregistro{
+    font-family:sans-serif;
+    font-weight: bold;
+}
+.mensaje_incorrecto{
+    font-size: 15px;
+    color: red;
+    padding-left: 180px;
+
+}
+
+.mensaje_correcto{
+    color: green;
+    padding-left: 150px;
+
+}
+#botonregistro{
+    font-family: "bebas";
+    font-size: 20px;
+    border: none;
+    margin-left: 190px;
+    background-color: #111;
+   width: 150px;
+}
+
+
+#singlink{
+    text-decoration: none;
+}
+#sing{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    padding-left: 170px;
+}
+
+#checkp{
+    padding-top: 10px;
+    padding-left: 100px;
+    
+}
+#check{
+width: 20px;
+height: 15px;
+}
+
+@font-face {
+    font-family: "bebas";
+    src: url(../font/BebasNeue-Regular.otf);
+}
+
+
+

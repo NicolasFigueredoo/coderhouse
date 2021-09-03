@@ -1,0 +1,285 @@
+/*search*/
+.txt_search{
+  padding: 10px;
+  margin-top: 10px;
+  height: 40px;
+  background-color: #f5f5f5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  cursor: text;
+  border: none;
+  border-radius: 100px;
+}
+
+.fa-search{
+  font-size: 20px;
+    padding-top: 20px;
+  cursor: pointer;}
+/*tienda*/
+.categorias{
+  margin-left: 20px;
+    margin-top: 20px;
+}
+.titulo-secciones{
+    font-family: "Nike TG",Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.secciones{
+    line-height: 1;
+    list-style: none;
+    text-align: none;
+    font-family: "Nike TG",Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+
+#content{
+  
+    margin-left: 55px;
+padding-top: 5px;
+    margin-right: 0px;
+}
+
+.compra{
+  width: 1300px;
+    height: 3700px;
+    display: flex;
+}
+
+
+.col{
+height: 0px ;
+}
+
+
+.buybtn{
+  cursor: pointer;
+  margin-left: 220px;
+}
+
+.quitarcarrito{
+  background-color: white;
+  border: 2px solid orangered;
+  border-radius: 20px;
+  font-family: "bebas";
+  color: orangered;
+  width: 70px;
+  height: 30px;
+  margin-left: 240px;
+
+
+}
+
+#shoes{
+    color: #111;
+    text-decoration: none;
+}
+
+#shirt{
+  color: #111;
+  text-decoration: none;
+}
+
+#newproductos{
+  color: #111;
+  text-decoration: none;
+}
+
+#pants{
+  color: #111;
+  text-decoration: none;
+}
+
+
+#Accessories{
+  color: #111;
+  text-decoration: none;
+}
+.card-body{
+    padding-left: 0px;
+    line-height: 0px;
+}
+.card-title{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    color: orangered;
+}
+
+.card-text-producto{
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.card-text-genero{
+    font-size: 16px;
+    color: #757575;
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+
+.card-text-precio{
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+
+}
+
+
+
+/*footer*/
+
+footer{
+    margin-top: 600px;
+    padding-top: 10px;
+    color: white;
+    height: 330px;
+    background-color:#111;
+}
+
+.info-footer{
+    padding-top: 30px;
+    display: flex;
+}
+
+
+.list{
+    line-height: 25px;
+}
+.footer_txt{
+    
+    list-style: none;
+    text-align: none;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    line-height: 2.5;
+    font-weight: 500;
+    font-size: 12px;  
+}
+
+.footer_txt2{
+    font-size: 12px;
+    line-height: 2;
+    list-style:none;
+    color: #757575;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+}
+.footerfot{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    margin-left: 30px;
+    padding-top: 20px;
+    width: 95%;
+    height: 50px;
+    border-top: 1px solid #7e7e7e;
+}
+.flex{
+    display: flex;
+}
+.location{
+    padding-right: 5px;
+    font-size: 15px;
+    color: white;
+}
+
+
+.ubicacion-txt{
+    font-size: 12px;
+    line-height: 2;
+    list-style:none;
+    color: #757575;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    color: white;
+}
+
+.copyright{
+    padding-left: 8px;
+}
+
+.guias{
+    display: flex;
+}
+.guias p{
+    padding-right: 8px;
+}
+.seccion2{
+margin-left:100px;
+}
+
+.seccion3{
+    margin-left: 100px;
+}
+
+.seccion4{
+    margin-left: 500px;
+}
+
+.seccion4 i{
+
+margin: 7px;
+color: #111;
+background-color: #757575;
+border: 9px solid #757575;
+border-radius: 100%;
+font-size: 17px;
+}
+
+#shop:hover{
+padding-top: 10px;
+transition: 0.5s;
+cursor: pointer;
+}
+
+#shop{
+  color: black;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    float: right;
+}
+
+/*carrito*/
+
+#carro{
+  padding-top: 20px;
+  color: #111;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+
+
+/*api dolar*/
+.secciondolar{
+  padding-left: 0px;
+}
+
+#cotizar{
+  font-family: Arial, Helvetica, sans-serif
+}
+#nombredolar{
+  list-style: none;
+  color: green;
+}
+#compradolar{
+    list-style: none;
+}
+#ventadolar{
+    list-style: none;
+
+}

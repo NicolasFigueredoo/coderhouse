@@ -1,0 +1,37 @@
+[
+  {
+    "compra": "97,31",
+    "venta": "103,31",
+    "agencia": "349",
+    "nombre": "Dolar Oficial",
+    "variacion": "0,09",
+    "ventaCero": "TRUE",
+    "decimales": "2"
+  },
+  {
+    "compra": "178,00",
+    "venta": "181,00",
+    "agencia": "310",
+    "nombre": "Dolar Blue",
+    "variacion": "0",
+    "ventaCero": "TRUE",
+    "decimales": "2"
+  },
+  {
+    "compra": "172,240",
+    "venta": "171,530",
+    "agencia": "313",
+    "nombre": "Dolar Bolsa",
+    "variacion": "0,570",
+    "ventaCero": "TRUE",
+    "decimales": "3"
+  },
+  {
+    "compra": "96,92",
+    "venta": "104,19",
+    "agencia": "302",
+    "nombre": "Dolar",
+    "ventaCero": "TRUE",
+    "decimales": "3"
+  }
+]
